@@ -1,0 +1,22 @@
+[
+  {
+    "id_prod": 1662690812041,
+    "title": "zapatillas adidas",
+    "desc": "zapatillas adidas ultimatum",
+    "price": 22000,
+    "urlFoto": "vdvsdvsdvsvsdv",
+    "code": "12345616",
+    "stock": 15,
+    "date": "8/9/2022 23:33:32"
+  },
+  {
+    "id_prod": 1662690844014,
+    "title": "zapatillas Nike",
+    "desc": "zapatillas Nike ultimatum",
+    "price": 27000,
+    "urlFoto": "vdvsdvfewvsvsdv",
+    "code": "1235",
+    "stock": 11,
+    "date": "8/9/2022 23:34:03"
+  }
+]
